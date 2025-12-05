@@ -101,8 +101,8 @@ An NLP-powered chatbot trained on custom intents, deployed through a Flask inter
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rafat-i&show_icons=true&theme=tokyonight" height="160px" />
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rafat-i&layout=compact&theme=tokyonight" height="160px" />
+<img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/generated/overview.svg#gh-dark-mode-only" height="160px" />
+<img src="https://raw.githubusercontent.com/DenverCoder1/github-readme-stats/master/generated/languages.svg#gh-dark-mode-only" height="160px" />
 
 </div>
 
