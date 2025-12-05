@@ -72,15 +72,16 @@ A subscription-based crypto signal platform featuring:
 - Stripe API payments  
 - Firebase authentication & storage  
 - Subscription management and content delivery system
-- Role-based content access  
+- Role-based content access
+
 ---
 
 ### 📊 **Sorting Algorithm Visualizer (Python)**
 An interactive tool that visually demonstrates:
 - Bubble Sort  
 - Quick Sort  
-- Merge Sort  
-Allows users to understand sorting step-by-step in real time.
+- Merge Sort
+- Allows users to understand sorting step-by-step in real time.
 
 ---
 
