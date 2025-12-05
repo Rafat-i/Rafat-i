@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi, I'm Rafat</h1>
 <p align="center">
-  Software Developer • Mobile Dev (Android + iOS) • Backend • Aspiring Software Engineer
+  Backend & Full-Stack Developer • Aspiring Software Engineer • Cloud & Distributed Systems Enthusiast
 </p>
 
 ---
@@ -71,8 +71,8 @@ I love solving problems, learning new technologies, and creating projects that c
 A subscription-based crypto signal platform featuring:
 - Stripe API payments  
 - Firebase authentication & storage  
-- Subscription management and content delivery system  
-
+- Subscription management and content delivery system
+- Role-based content access  
 ---
 
 ### 📊 **Sorting Algorithm Visualizer (Python)**
@@ -87,8 +87,7 @@ Allows users to understand sorting step-by-step in real time.
 ### 📦 **Inventory Management System**
 A complete system that supports:
 - Product tracking  
-- Stock updates  
-- Secure authentication  
+- Stock updates
 - CRUD operations for items and categories  
 
 ---
@@ -102,8 +101,8 @@ An NLP-powered chatbot trained on custom intents, deployed through a Flask inter
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rafat-i&show_icons=true&theme=tokyonight" height="160px" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafat-i&layout=compact&theme=tokyonight" height="160px" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Rafat-i&show_icons=true&theme=tokyonight" height="160px" />
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Rafat-i&layout=compact&theme=tokyonight" height="160px" />
 
 </div>
 
