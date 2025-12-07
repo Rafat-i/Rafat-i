@@ -16,7 +16,7 @@ I love solving problems, learning new technologies, and creating projects that c
 
 ---
 
-# 🛠️ Skills & Technologies (from my CV)
+# 🛠️ Skills & Technologies
 
 ## **Languages & Scripting**
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)
