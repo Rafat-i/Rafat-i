@@ -59,34 +59,47 @@ I love solving problems, learning new technologies, and creating projects that c
 
 # 📌 Featured Projects
 
-### 💸 **Cryptocurrency Signal Group Website (React + Node.js + Firebase)**
-A subscription-based crypto signal platform featuring:
-- Stripe API payments  
-- Firebase authentication & storage  
-- Subscription management and content delivery system
-- Role-based content access
+### 💸 [Gem Finder – Crypto Signal Platform](https://github.com/Rafat-i/GemFinder)
+**React • Node.js • Express • Firebase • Stripe API • CoinGecko API**
+
+A subscription-based web platform delivering cryptocurrency investment signals and real-time market data.
+- Built a full authentication + subscription flow using **Firebase Auth** and **Stripe** (3 tiers: 1 month / 2 months / lifetime)
+- Integrated **CoinGecko API** for live BTC, ETH, SOL price tracking with percentage change indicators
+- Implemented **role-based route protection** separating public, subscriber, and admin views
+- Built an **admin dashboard** for user management (add, update, remove, view subscribers)
 
 ---
 
-### 📊 **Sorting Algorithm Visualizer (Python)**
-An interactive tool that visually demonstrates:
-- Bubble Sort  
-- Quick Sort  
-- Merge Sort
-- Allows users to understand sorting step-by-step in real time.
+### 📊 [Sorting Algorithm Visualizer](https://github.com/Rafat-i/Sorting-Visualizer)
+**Python • Pygame • Pytest**
+
+An interactive desktop app that animates Bubble Sort, Quick Sort, and Merge Sort in real time using bar chart visuals.
+- Used **Python generators** (`yield`) to step through algorithm execution frame-by-frame
+- Color-coded bars highlight active comparisons and swaps during animation
+- Includes a **pytest suite** covering correctness of all three algorithm implementations
+- Keyboard controls (SPACE to start, RIGHT ARROW to cycle algorithms) for interactive exploration
 
 ---
 
-### 📦 **Inventory Management System**
-A complete system that supports:
-- Product tracking  
-- Stock updates
-- CRUD operations for items and categories  
+### 📦 [Inventory Management System](https://github.com/Rafat-i/inventory-manager)
+**Java • Servlets • JSP • MySQL • Apache Tomcat • DAO Pattern**
+
+A multi-tier web application for managing products, suppliers, and orders in a business inventory context.
+- Architected with a clean **3-layer separation**: JSP (presentation) → Servlets (logic) → DAO (data access)
+- Supports full **order lifecycle**: place order → auto-adjust stock levels on completion
+- Generates downloadable **.txt inventory reports** with stock summaries
+- Implemented **interface-driven design** (`Report`, `ReportGeneratable`, `StockTrackable`) for extensibility
 
 ---
 
-### 🤖 **AI Chatbot (Flask + SVM)**
-An NLP-powered chatbot trained on custom intents, deployed through a Flask interface.
+### 🤖 [AI Chatbot](https://github.com/Rafat-i/Chatbot)
+**Python • Flask • scikit-learn • NLTK**
+
+An NLP-powered chatbot that classifies user intent using a trained SVM model and returns contextual responses.
+- Trained an **SVM classifier** (linear kernel) on 13 intent categories using Bag-of-Words vectorization
+- Applied **NLTK tokenization and lemmatization** for text preprocessing before classification
+- Served via a **Flask REST API** (`POST /chat`) with a lightweight HTML/CSS/JS frontend
+- Easily extensible — new intents added via `intents.json` without modifying application code
 
 ---
 
