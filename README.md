@@ -59,7 +59,7 @@ I love solving problems, learning new technologies, and creating projects that c
 
 # 📌 Featured Projects
 
-### 💸 [Gem Finder – Crypto Signal Platform](https://github.com/Rafat-i/GemFinder)
+### 💸 Gem Finder – Crypto Signal Platform
 **React • Node.js • Express • Firebase • Stripe API • CoinGecko API**
 
 A subscription-based web platform delivering cryptocurrency investment signals and real-time market data.
@@ -68,9 +68,11 @@ A subscription-based web platform delivering cryptocurrency investment signals a
 - Implemented **role-based route protection** separating public, subscriber, and admin views
 - Built an **admin dashboard** for user management (add, update, remove, view subscribers)
 
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafat-i/GemFinder)
+
 ---
 
-### 📊 [Sorting Algorithm Visualizer](https://github.com/Rafat-i/Sorting-Visualizer)
+### 📊 Sorting Algorithm Visualizer
 **Python • Pygame • Pytest**
 
 An interactive desktop app that animates Bubble Sort, Quick Sort, and Merge Sort in real time using bar chart visuals.
@@ -79,9 +81,11 @@ An interactive desktop app that animates Bubble Sort, Quick Sort, and Merge Sort
 - Includes a **pytest suite** covering correctness of all three algorithm implementations
 - Keyboard controls (SPACE to start, RIGHT ARROW to cycle algorithms) for interactive exploration
 
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafat-i/Sorting-Visualizer)
+
 ---
 
-### 📦 [Inventory Management System](https://github.com/Rafat-i/inventory-manager)
+### 📦 Inventory Management System
 **Java • Servlets • JSP • MySQL • Apache Tomcat • DAO Pattern**
 
 A multi-tier web application for managing products, suppliers, and orders in a business inventory context.
@@ -90,9 +94,11 @@ A multi-tier web application for managing products, suppliers, and orders in a b
 - Generates downloadable **.txt inventory reports** with stock summaries
 - Implemented **interface-driven design** (`Report`, `ReportGeneratable`, `StockTrackable`) for extensibility
 
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafat-i/inventory-manager)
+
 ---
 
-### 🤖 [AI Chatbot](https://github.com/Rafat-i/Chatbot)
+### 🤖 AI Chatbot
 **Python • Flask • scikit-learn • NLTK**
 
 An NLP-powered chatbot that classifies user intent using a trained SVM model and returns contextual responses.
@@ -100,6 +106,8 @@ An NLP-powered chatbot that classifies user intent using a trained SVM model and
 - Applied **NLTK tokenization and lemmatization** for text preprocessing before classification
 - Served via a **Flask REST API** (`POST /chat`) with a lightweight HTML/CSS/JS frontend
 - Easily extensible — new intents added via `intents.json` without modifying application code
+
+[![View Repo](https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rafat-i/Chatbot)
 
 ---
 
