@@ -9,7 +9,6 @@
 I'm a passionate software developer who enjoys building real-world applications across mobile, backend, and web.  
 I love solving problems, learning new technologies, and creating projects that combine clean design with solid engineering.
 
-- 📚 Computer Science Student (LaSalle College, graduating 2026)
 - 💼 Software Developer Intern
 - 🌐 Backend & Web (Spring Boot, Express.js, Node.js, ASP.NET MVC)
 - ☁ Interested in cloud, distributed systems, and AI applications
